@@ -3,3 +3,5 @@
 merged_data_step_1.csv
 merged_data_step_1_dropped.csv
 data_summary.xlsx
+merged_data_step_2_Cleaned.csv
+merged_data_step_3_Encoded.csv
