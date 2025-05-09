@@ -14,4 +14,12 @@ Classification/BoGender_SPLITS
 Classification/CoGender_SPLITS
 Classification/BoRace_SPLITS
 Classification/CoRace_SPLITS
+Classification/BoGender_CV
+Classification/CoGender_CV
+Classification/BoRace_CV
+Classification/CoRace_CV
+Classification/BoGender_RFECV
+Classification/CoGender_RFECV
+Classification/BoRace_RFECV
+Classification/CoRace_RFECV
 Classification/catboost_info
