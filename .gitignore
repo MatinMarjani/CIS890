@@ -24,3 +24,4 @@ Classification/BoRace_RFECV
 Classification/CoRace_RFECV
 Classification/catboost_info
 *.csv
+*.png
