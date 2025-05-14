@@ -79,7 +79,7 @@ This repository contains a modular, step-by-step pipeline for preprocessing mort
 - **Output:**
   - `{Target}_pca.png`
 
----
+```
 
 ## 📁 Folder Structure
 
@@ -110,7 +110,7 @@ This repository contains a modular, step-by-step pipeline for preprocessing mort
 └── Data_PreProcessing.ipynb
 
 
----
+```
 
 1. Run: Data_MergeAndAnalysis.ipynb
 2. Run: Data_PreProcessing.ipynb
